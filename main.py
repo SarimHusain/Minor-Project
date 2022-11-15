@@ -5,7 +5,7 @@ from datasets import load_dataset
 from config import defaults, makeconfig, print_help
 from training import train
 from testing import test
-from validatation import validate
+from validation import validate
 
 
 if __name__ == "__main__":
