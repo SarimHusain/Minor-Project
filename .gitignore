@@ -1,0 +1,3 @@
+__pycache__/
+trained/*
+!trained/.gitkeep
